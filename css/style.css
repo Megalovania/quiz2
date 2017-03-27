@@ -1,0 +1,30 @@
+body {
+  margin: auto;
+  width: 98%;
+  text-align: center;
+  color: black;
+}
+
+
+
+#banter {
+  font-family: "Franklin Gothic Book";
+  color: #4BD5EE;
+  text-align: center;
+  width: 82%;
+  margin-left: 9%;
+  margin-right: 9%;
+}
+
+
+input {
+   size = 20;
+   maxlength = 20;
+}
+
+#logo {
+  height: 150px;
+  width: auto;
+  background: url("../image/logo.png") no-repeat center center;
+  background-size: contain;
+}
